@@ -1,0 +1,915 @@
+@charset "UTF-8";
+/* CSS Document */
+.row-products
+{
+	margin-top:80px;
+	padding:0;
+}
+.row--featured_products
+{
+	padding-top:100px;
+}
+
+
+button
+{
+	cursor:pointer;
+	margin-bottom:20px;
+	height:280.25px;
+	background:#FF0004;
+	box-shadow:none;
+	border:none;
+	color:#FFFFFF;
+	font-weight:100;
+	
+}
+
+h1 
+{
+	font-size:25px;
+	line-heigt:20px;
+	text-align:center;
+	color:#FF0004;
+	margin-top:180px;
+	font-weight:100;
+	position:relative;
+	margin-bottom:10px
+}
+
+	
+.product-container-1	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 120px;
+	background:url(../Images/Fishtastic/Fish/Angelfish1.jpg);
+}
+
+.product-container-2	
+{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/butterflyfish1.jpg);
+}
+
+.product-container-3	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/clownfish2.JPG);
+}
+
+.product-container-4	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/DoryFish1.jpg);
+}
+
+.product-container-5	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/fantailgoldfish2.jpg);
+}
+
+.product-container-6	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/guppy2.jpg);
+}
+
+.product-container-7	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/Neontetra1.jpg);
+}
+
+.product-container-8	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/orandagoldfish2.jpg);
+}
+
+.product-container-9	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right:15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/damselfish.jpg);
+}
+
+.product-container-10	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Fish/glasscat.jpg);
+}
+
+
+.product-container-11	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 120px;
+	background:url(../Images/Fishtastic/Aquarium/largeaquarium.jpg);
+}
+
+.product-container-12	
+{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/smallaquarium.jpg);
+}
+
+.product-container-13	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/filter.jpg);
+}
+
+.product-container-14	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/light.jpg);
+}
+
+.product-container-15	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/wood.jpg);
+}
+
+.product-container-16	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/stone.jpg);
+}
+
+.product-container-17	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/back.jpg)
+}
+
+.product-container-18	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/back2.jpg);
+}
+
+.product-container-19	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right:15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/glass.jpg);
+}
+
+.product-container-20	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/Aquarium/pump.jpg);
+}
+
+
+.product-container-21	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 120px;
+	background:url(../Images/Fishtastic/FishFood/colorfin.jpg);
+}
+
+.product-container-22	
+{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/supercolor.jpg)
+}
+
+.product-container-23	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/brine.jpg);
+}
+
+.product-container-24	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/tropical.jpg);
+}
+
+.product-container-25	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/shrimp.jpg);
+}
+
+.product-container-26	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/blood.jpg);
+}
+
+.product-container-27	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/pond.jpg);
+}
+
+.product-container-28	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/algae.jpg);
+}
+
+.product-container-29	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right:15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/sink.jpg);
+}
+
+.product-container-30	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishFood/super.jpg);
+	
+}
+
+.product-container-31	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 120px;
+	background:url(../Images/Fishtastic/FishMed/cupramine.JPG)
+}
+
+.product-container-32	
+{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/erythromycin.JPG);
+}
+
+.product-container-33	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/fishbiotic.JPG);
+}
+
+.product-container-34	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/furan2.JPG);
+}
+
+.product-container-35	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/kanaplex.JPG);
+}
+
+.product-container-36	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/metroplex.JPG);
+}
+
+.product-container-37	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.25px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/parasite.jpg);
+}
+
+.product-container-38	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/polyguard.JPG);
+}
+
+.product-container-39	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-right:15px;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/tetracycline.JPG);
+}
+
+.product-container-40	{
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+	width: 251.15px;
+	height: 251.25px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	float: left;
+	margin-bottom: 100px;
+	background:url(../Images/Fishtastic/FishMed/triplesulfa.JPG);
+	
+}
+
+
+.package-overlay	{
+	width: 251.25px;
+	height: 251.25px;
+	bottom: -251.25px;
+	background-color: rgba(4, 161, 166, 0.7);
+	position: absolute;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 25px;
+	font-weight: 300;
+	text-align: center;
+	line-height: 251.25px;
+	color: #fff;
+	}
+
+.package-overlay-4	{
+	width: 251.25px;
+	height: 251.25px;
+	bottom: -251.25px;
+	padding-left: 5px;
+	background-color: rgba(4, 161, 166, 0.7);
+	position: absolute;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 25px;
+	font-weight: 300;
+	text-align: center;
+	line-height: 251.25px;
+	color: #fff;
+	}
+
+.product-container-1:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-2:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-3:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-4:hover	.package-overlay-4	{
+	bottom: 0;
+	}
+	
+.product-container-5:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-6:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-7:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-8:hover	.package-overlay-4	{
+	bottom: 0;
+	}
+.product-container-9:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-10:hover	.package-overlay	{
+	bottom: 0;
+	}
+	
+	
+.product-container-11:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-12:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-13:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-14:hover	.package-overlay-4	{
+	bottom: 0;
+	}
+	
+.product-container-15:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-16:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-17:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-18:hover	.package-overlay-4	{
+	bottom: 0;
+	}
+.product-container-19:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-20:hover	.package-overlay	{
+	bottom: 0;
+	}
+	
+.product-container-21:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-22:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-23:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-24:hover	.package-overlay-4	{
+	bottom: 0;
+	}
+	
+.product-container-25:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-26:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-27:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-28:hover	.package-overlay-4	{
+	bottom: 0;
+	}
+.product-container-29:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-30:hover	.package-overlay	{
+	bottom: 0;
+	}
+	
+.product-container-31:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-32:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-33:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-34:hover	.package-overlay-4	{
+	bottom: 0;
+	}
+	
+.product-container-35:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-36:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-37:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-38:hover	.package-overlay-4	{
+	bottom: 0;
+	}
+.product-container-39:hover	.package-overlay	{
+	bottom: 0;
+	}
+
+.product-container-40:hover	.package-overlay	{
+	bottom: 0;
+	}
+	
+.package-learn-more	{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 25px;
+	font-weight: 300;
+	color: rgba(255, 255, 255, 0.7);
+	text-decoration: none;
+	position: absolute;
+	padding: 15px;
+	margin-top: 15px;
+	margin-left: 57px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+	}
+
+.package-learn-more:hover	{
+	color: rgba(255, 255, 255, 1);
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	}
+
+.package-learn-more-4	{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 25px;
+	font-weight: 300;
+	color: rgba(255, 255, 255, 0.7);
+	text-decoration: none;
+	position: absolute;
+	padding: 15px;
+	margin-top: 15px;
+	margin-left: 58px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+	}
+
+.package-learn-more-4:hover	{
+	color: rgba(86, 96, 115, 1);
+	transition: all 0.4s ease-in-out;
+	}
+
